@@ -11,3 +11,7 @@
 •	Multiple linear regression was conducted to examine the impact of the frequency of physical activity on the individual’s BMI, controlling for the effect of age groups, gender, and race. 
 
 •	Secondary data analysis was conducted using two sample t-test to explore the association between the intensity of physical activity and the individual’s BMI.
+
+• Findings based on survey data are limited by self-reported bias and loss to follow up; therefore, further study should explore the effect of physical activity on the individual’s BMI with the presence of other health indicators that influence weight status. 	
+
+•	Findings represent citywide estimates for NYC about intensity of physical activity and its influence on BMI scale to suggest effective physical activity interventions and improvement for BMI management.
