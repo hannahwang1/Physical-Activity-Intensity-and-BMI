@@ -8,7 +8,7 @@ Through conducting a retrospective review of NYC HANES data, this study explored
 
 •	The NYC HANES is a population-based, cross-sectional study with data collected from a physical examination, clinical and laboratory tests, as well as a face-to-face interview and an audio computer-assisted self-interview. 
 
-## Lessons Learned
+## Project Summary
 
 •	Multiple linear regression was conducted to examine the impact of the frequency of physical activity on the individual’s BMI, controlling for the effect of age groups, gender, and race. 
 
